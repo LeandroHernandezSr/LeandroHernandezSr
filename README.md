@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrohernandezsr&label=Profile%20views&color=0e75b6&style=flat" alt="leandrohernandezsr" /> </p>
 
-- 🔭 I’m currently working on [ITFIT](https://github.com/LeandroHernandezSr/ITFIT)
-
 - 📫 How to reach me **l.hernandez071999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
